@@ -1,2 +1,2 @@
 # VendaDeCarros
-Projeto de site de vendas de carros nas linguagens HTML, CSS e JavaScript.
+Projeto site de vendas de carros nas linguagens HTML, CSS e JavaScript.
